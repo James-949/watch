@@ -1,0 +1,17 @@
+﻿* {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    font-weight: bold;
+    color: #CB7CA1;
+    background-color: black;
+}
+table {
+    position: center;
+    border: 1px solid #1C6CCE doubled;
+    margin-top: 7cm;
+    margin-left: 15cm;
+}
+td {
+    padding: 3mm;
+}
